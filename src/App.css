@@ -1,0 +1,31 @@
+/**
+ * Project: Peronal Greeter
+ * Author : Wathsala Bandara
+ * Date   : 03/20/2022
+ */
+ .heading {
+  color: rgb(79 118 172);
+  font-size: 16pt;
+  font-weight: bold;
+  font-family: 'Cascadia Code SemiBold Franklin Gothic Medium Arial Narrow Arial sans-serif';
+  text-transform: uppercase;
+}
+
+.sub-heading {
+  color: rgb(58, 68, 110);
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: 'Cascadia Code SemiBold Franklin Gothic Medium Arial Narrow Arial  sans-serif';
+}
+
+.message-text {
+  color: rgb(44, 43, 53);
+  font-size: 12pt;
+  font-family: 'Cascadia Code SemiBold Franklin Gothic Medium Arial Narrow Arial  sans-serif';
+}
+
+fieldset {
+  width: 50%;
+  text-align: center;
+  border: 3px solid rgb(79 118 172);
+}
